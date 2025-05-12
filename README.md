@@ -9,8 +9,7 @@ architectural features such as walls, roof, doors, and windows.
 - 3D rendering using modern OpenGL
 - Wireframe and solid models
 - Interactive camera (rotate and zoom)
-- Balcony with bars and windows
-- Second-floor access with door
+- House with doors and windows
 
 ## 🧱 Built With
 
